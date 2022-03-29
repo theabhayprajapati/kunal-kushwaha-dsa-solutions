@@ -18,7 +18,7 @@ public class FindFactorial {
             fact = fact * i;
             System.out.print(i+" * ");
         }
-        System.out.println(" =" + fact);
+        System.out.print("= " + fact);
         
     }
 }
