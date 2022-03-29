@@ -1,3 +1,5 @@
+package java;
+
 import java.util.Scanner;
 
 public class ProductOfTwo {
@@ -5,6 +7,7 @@ public class ProductOfTwo {
         Scanner in = new Scanner(System.in);
         double num1 = in.nextDouble();
         double num2 = in.nextDouble();
+        in.close();
         double Product = getProduct(num1, num2);
         System.out.println(Product);
         
