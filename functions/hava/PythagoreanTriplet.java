@@ -11,6 +11,7 @@ public class PythagoreanTriplet {
             arr[i] = sc.nextInt(); // take values
 
         }
+        sc.close();
         getTriplet(arr);
     }
 
@@ -19,12 +20,12 @@ public class PythagoreanTriplet {
         int b = nums[1];
         int c = nums[2];
         int left = (a * a) + (b * b);
-        int right = c*c;
+        int right = c * c;
+
         System.out.println(left);
-        String result = (left==right) ? "Pass" : "Faild";
+        String result = (left == right) ? "Pass" : "Faild";
         // left!=right ? System.out.println("It is") : System.out.println("its noe");
         System.out.println(result);
-        
-        
+
     }
 }
