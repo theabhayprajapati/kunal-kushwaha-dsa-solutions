@@ -1,3 +1,4 @@
+package firstjava.java;
 import java.util.Scanner;
 
 public class EvenOdd {

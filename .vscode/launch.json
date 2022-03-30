@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Shufflearray",
+            "request": "launch",
+            "mainClass": "arrays.Shufflearray",
+            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",

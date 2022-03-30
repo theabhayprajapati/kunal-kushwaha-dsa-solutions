@@ -1,4 +1,4 @@
-package hava;
+package functions.java;
 
 import java.util.Scanner;
 
