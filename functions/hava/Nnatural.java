@@ -6,19 +6,21 @@ public class Nnatural {
         System.out.println("Enter the number :");
         int num = in.nextInt();
         in.close();
-        sumofNnaturalnum(num);
+        int sum =sumofNnaturalnum(num);
+        System.out.println(sum);
+        
     }
 
-    static void sumofNnaturalnum(int n) {
+    static int sumofNnaturalnum(int n) {
         int sum = 0;
-        System.out.println("The sum of number from " + n + " is ");
+        System.out.println("The sum of number from 0 to " + n + " is ");
         
         for(int i =0; i<=n; i++){
             // System.out.println(i);
             sum = sum +i;
 
         }
-        System.out.println(sum);
+        return sum;
         
     }
 }
