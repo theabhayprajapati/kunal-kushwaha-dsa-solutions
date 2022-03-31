@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GoodPairs",
+            "request": "launch",
+            "mainClass": "arrays.GoodPairs",
+            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+        },
+        {
+            "type": "java",
             "name": "Launch Shufflearray",
             "request": "launch",
             "mainClass": "arrays.Shufflearray",
