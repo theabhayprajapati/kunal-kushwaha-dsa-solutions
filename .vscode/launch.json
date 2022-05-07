@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SpiralMat",
+            "request": "launch",
+            "mainClass": "arrays.medium.SpiralMat",
+            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+        },
+        {
+            "type": "java",
             "name": "Launch Targetarray",
             "request": "launch",
             "mainClass": "arrays.Targetarray",
