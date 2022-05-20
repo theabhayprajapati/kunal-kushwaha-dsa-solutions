@@ -1,153 +1,154 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch SpiralMat",
-            "request": "launch",
-            "mainClass": "arrays.medium.SpiralMat",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Targetarray",
-            "request": "launch",
-            "mainClass": "arrays.Targetarray",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch GoodPairs",
-            "request": "launch",
-            "mainClass": "arrays.GoodPairs",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Shufflearray",
-            "request": "launch",
-            "mainClass": "arrays.Shufflearray",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "name": "Java",
-            "type": "java",
-            "request": "launch",
-            "stopOnEntry": true,
-            "jdkPath": "${env:JAVA_HOME}/bin",
-            "cwd": "${fileDirname}",
-            "startupClass": "${fileBasenameNoExtension}",
-            "classpath": [
-                ".",
-                "${fileDirname}"
-            ]
-        },
-        {
-            "name": "Java Console App",
-            "type": "java",
-            "request": "launch",
-            "stopOnEntry": true,
-            "jdkPath": "${env:JAVA_HOME}/bin",
-            "cwd": "${fileDirname}",
-            "startupClass": "${fileBasenameNoExtension}",
-            "classpath": [
-                ".",
-                "${fileDirname}"
-            ],
-            "externalConsole": true
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch AreaOfCircle",
-            "request": "launch",
-            "mainClass": "AreaOfCircle",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch CheckAge",
-            "request": "launch",
-            "mainClass": "CheckAge",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch FindFactorial",
-            "request": "launch",
-            "mainClass": "FindFactorial",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch GetPrime",
-            "request": "launch",
-            "mainClass": "GetPrime",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Marks",
-            "request": "launch",
-            "mainClass": "Marks",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Maxmin",
-            "request": "launch",
-            "mainClass": "Maxmin",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Oddeveb",
-            "request": "launch",
-            "mainClass": "Oddeveb",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Palidrome",
-            "request": "launch",
-            "mainClass": "Palidrome",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Prime",
-            "request": "launch",
-            "mainClass": "Prime",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch ProductOfTwo",
-            "request": "launch",
-            "mainClass": "ProductOfTwo",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch PythagoreanTriplet",
-            "request": "launch",
-            "mainClass": "PythagoreanTriplet",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        },
-        {
-            "type": "java",
-            "name": "Launch SumOfTwo",
-            "request": "launch",
-            "mainClass": "SumOfTwo",
-            "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch PerfectSquare",
+      "request": "launch",
+      "mainClass": "searching.java.PerfectSquare",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SpiralMat",
+      "request": "launch",
+      "mainClass": "arrays.medium.SpiralMat",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Targetarray",
+      "request": "launch",
+      "mainClass": "arrays.Targetarray",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GoodPairs",
+      "request": "launch",
+      "mainClass": "arrays.GoodPairs",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Shufflearray",
+      "request": "launch",
+      "mainClass": "arrays.Shufflearray",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch AreaOfCircle",
+      "request": "launch",
+      "mainClass": "AreaOfCircle",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CheckAge",
+      "request": "launch",
+      "mainClass": "CheckAge",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FindFactorial",
+      "request": "launch",
+      "mainClass": "FindFactorial",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GetPrime",
+      "request": "launch",
+      "mainClass": "GetPrime",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Marks",
+      "request": "launch",
+      "mainClass": "Marks",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Maxmin",
+      "request": "launch",
+      "mainClass": "Maxmin",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Oddeveb",
+      "request": "launch",
+      "mainClass": "Oddeveb",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Palidrome",
+      "request": "launch",
+      "mainClass": "Palidrome",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Prime",
+      "request": "launch",
+      "mainClass": "Prime",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ProductOfTwo",
+      "request": "launch",
+      "mainClass": "ProductOfTwo",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PythagoreanTriplet",
+      "request": "launch",
+      "mainClass": "PythagoreanTriplet",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumOfTwo",
+      "request": "launch",
+      "mainClass": "SumOfTwo",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    }
+  ]
 }
