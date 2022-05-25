@@ -6,7 +6,7 @@ package searching.java;
 public class MissingNum {
 
     public static void main(String[] args) {
-        int[] nums = { 2, 3, 4, 7, 11};
+        int[] nums = { 2, 3, 4, 7, 11 };
         System.out.println(missingNum(nums, 5));
 
     }
