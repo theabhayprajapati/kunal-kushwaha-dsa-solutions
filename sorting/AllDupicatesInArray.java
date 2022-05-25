@@ -35,6 +35,6 @@ public class AllDupicatesInArray {
             }
         }
         return list;
-        abcdefjghijklmnopqrstuvwxyz
+        // abcdefjghijklmnopqrstuvwxyz
     }
 }
