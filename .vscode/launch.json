@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch MajorityNumbers",
+      "request": "launch",
+      "mainClass": "sorting.MajorityNumbers",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangles",
+      "request": "launch",
+      "mainClass": "recursion.Triangles",
+      "projectName": "kunal-kushawa-dsa-solution_cf3ebc1e"
+    },
+    {
+      "type": "java",
       "name": "Launch PerfectSquare",
       "request": "launch",
       "mainClass": "searching.java.PerfectSquare",
