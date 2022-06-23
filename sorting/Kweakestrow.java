@@ -5,7 +5,5 @@ package sorting;
  */
 public class Kweakestrow {
 
-    public static void main(String[] args) {
-        
-    }
+    
 }
