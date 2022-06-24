@@ -1,15 +1,14 @@
 package basics;
 
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
- * TheQueue
+ * TheLinkedList
  */
-public class TheQueue {
+public class TheLinkedList {
 
     public static void main(String[] args) {
-        Queue<Person> supermarket = new LinkedList<>();
+        LinkedList<Person> supermarket = new LinkedList<>();
         supermarket.add(new Person("John", 19));
         supermarket.add(new Person("Jane", 20));
         supermarket.add(new Person("Jack", 21));
@@ -22,9 +21,7 @@ public class TheQueue {
         System.out.println(supermarket);
         
     }
-
-    // perosn
     static record Person(String name, int age) {
-
+        
     }
 }
