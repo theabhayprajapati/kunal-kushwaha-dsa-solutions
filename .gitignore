@@ -1,7 +1,8 @@
 target/
 bin/
 !.mvn/wrapper/maven-wrapper.jar
-
+# bash
+bash
 ### STS ###
 .apt_generated
 .classpath
